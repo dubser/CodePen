@@ -1,1 +1,24 @@
-Readme
+V 1.0 3 Jan 25 Fonctionnel mais pas entièrement testé pour la persistance a long
+terme du cookie.
+
+TODO
+A essayer avec le panneau de controle.
+Créer un Cookie créer un cookie en JavaScript, utiliser la 
+propriété document.
+Le bouton Créer permet de sélectionner un nom de cookie qui sera créé a 
+ses valeure par défaut en cliquant créer.
+
+Le bouton lire permet de lire les valeurs du cookie choisi , et de lister 
+tous les cookies disponibles si le nom du dookie est une "*"
+
+// Set a cookie with Max-Age (up to ~68 years)
+document.cookie = "username=JohnDoe; max-age=2147483647; path=/";
+
+Voir aussi ....
+
+js localstorage  qui permet de stocker des objets Js jusqu'à une taille de 5MB.
+
+dynamodb une BD nosql sky .... voir
+
+https://aws.amazon.com/fr/free/database/?gclid=CjwKCAiA1eO7BhATEiwAm0Ee-ONvLdtt8DmauU1p0s0kubjppwKQDb7mWzhy57gqw--ItdLRk-LOEhoC-tcQAvD_BwE&trk=81343a60-45a8-47b4-93a3-2a5a9d652d27&sc_channel=ps&ef_id=CjwKCAiA1eO7BhATEiwAm0Ee-ONvLdtt8DmauU1p0s0kubjppwKQDb7mWzhy57gqw--ItdLRk-LOEhoC-tcQAvD_BwE:G:s&s_kwcid=AL!4422!3!664561084292!p!!g!!open%20source%20database!20334761489!153682109169
+
