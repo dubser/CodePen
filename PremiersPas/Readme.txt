@@ -1,7 +1,12 @@
 versions
 =================================================================
+3 Fév 2015  Intégré note pour live-server
+Attention il faut démarrer le serveur Html dans une fenetre
+de commande avec:
+live-server
+=================================================================
 31 déc 2014 Intégré module de demo de dsply classe de util
-
+Sauvegardé sur GitHub et Codepen
 =================================================================
 
 Ce module est une collection de controles Html5 & Javascript pour
