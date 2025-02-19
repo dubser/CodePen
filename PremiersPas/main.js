@@ -7,7 +7,7 @@ import * as util from 'https://cdn.jsdelivr.net/gh/dubser/jsdemo-common/utilV1.j
 const inst_0= new util.dsply("conteneur", {color :'darkblue', width : '40vw', height : '10vh'}); 
 const inst_1= new util.dsply("conteneur1",{width : '40vw', height : '10vh'});
 
-//console.log("Objet....Instance 0 Id : " + inst_0.divId );
+console.log("Objet....Instance 0 Id : " + inst_0.divId );
 
 // Test d'accès a l'instance depuis HTML 
 // Lister du texte dans la fenetre
